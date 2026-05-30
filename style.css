@@ -1447,6 +1447,12 @@ body.dark-mode .press-translation {
     border-top: 2px solid var(--color-gold-dark);
 }
 
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
 .footer-top {
     display: flex;
     justify-content: space-between;
